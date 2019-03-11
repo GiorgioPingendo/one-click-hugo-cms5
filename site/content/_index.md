@@ -1,8 +1,8 @@
 ---
-title: Great coffee with a conscience
-subtitle: Support sustainable farming while enjoying a cupj
-image: /img/home-jumbotron.jpg
-blurb:
+title3: Great coffee with a conscience
+subtitle3: Support sustainable farming while enjoying a cupj
+image3: /img/home-jumbotron.jpg
+blurb2:
   heading: Why Kaldi?
   text: >-
     Kaldi3333 is tbhe coffee store for everyone who believes that great coffee
