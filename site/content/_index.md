@@ -1,14 +1,14 @@
 ---
-title3: Great coffee with a conscience
-subtitle3: Support sustainable farming while enjoying a cupj
-image3: /img/home-jumbotron.jpg
-blurb2:
+title: Great coffee with a consciencej
+subtitle: Support sustainable farming while enjoying a cupjj
+image: /img/home-jumbotron.jpg
+blurb:
   heading: Why Kaldi?
   text: >-
-    Kaldi3333 is tbhe coffee store for everyone who believes that great coffee
-    shouldn't just taste good, it should do good too. We source all of our beans
-    directly from small scale sustainable farmers and make sure part of the
-    profits are reinvested in their communities.
+    Kaldi3333 isjn kn jkn  tbhe coffee store for everyone who believes that
+    great coffee shouldn't just taste good, it should do good too. We source all
+    of our beans directly from small scale sustainable farmers and make sure
+    part of the profits are reinvested in their communities.
 intro:
   heading: What we offer
   text: >-
